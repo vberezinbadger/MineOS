@@ -1,7 +1,7 @@
 ## mineOS Remastered has released!
 
-Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. MineOS has finally reached the release stage: now it is a completely independent operating system with its own development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) of it's usage. 
-MineOS is a GUI based operating system for the Open Computers Minecraft mod. It has extensive and powerful customisation abilities as well as an app market to publish your creations among the OS community.
+Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. mineOS has finally reached the release stage: now it is a completely independent operating system with its own development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/MineOS/wiki) of it's usage. 
+mineOS is a GUI based operating system for the Open Computers Minecraft mod. It has extensive and powerful customisation abilities as well as an app market to publish your creations among the OS community.
 Here's a list of a few features:
 
 -   Multitasking
