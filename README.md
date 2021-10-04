@@ -23,6 +23,12 @@ The easiest way is to use default **pastebin** script. Insert an OpenOS floppy d
 
 	wget -f https://raw.githubusercontent.com/vberezinbadger/MineOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
 
+mineOS has a new, monolithic core: mineCORE, which has support and modularity as well as protection. This core includes a lot of functionality (it will be expanded in the future), and also has a terminal server: mineBASH. To install the kernel on other operating systems, use the command:
+
+	command
+
+In mineOS has a MineBash application (available both in the new mineOS and in the old and original MineOS, but without support for hardware functionality). Install the MineBash application to easily launch the kernel, install terminal programs and applications for it.
+
 After a moment, a nice system installer will be shown. You will be prompted to select your preferred language, boot volume (can be formatted if needed), create a user profile and customize some settings
 
 ## How to create applications and work with API?
