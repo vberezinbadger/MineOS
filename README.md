@@ -17,7 +17,7 @@ Here's a list of a few features:
 -   Animations, wallpapers, screensavers, color schemes and huge customization possibilities
 -   Open source system API and detailed illustrated documentations
 
-## How to install?
+### How to install?
 
 The easiest way is to use default **pastebin** script. Insert an OpenOS floppy disk to computer, insert an Internet Card, turn computer on and type the following to console to install MineOS:
 
@@ -31,6 +31,6 @@ In mineOS has a MineBash application (available both in the new mineOS and in th
 
 After a moment, a nice system installer will be shown. You will be prompted to select your preferred language, boot volume (can be formatted if needed), create a user profile and customize some settings
 
-## How to create applications and work with API?
+### How to create applications and work with API?
 
 [Wiki (MineOS Original)](https://github.com/IgorTimofeev/MineOS/wiki)
