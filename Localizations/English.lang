@@ -64,7 +64,7 @@
 	newFile = "File",
 	newFileFromURL = "File from URL",
 	newImage = "Image",
-	newApplication = "MineOS application",
+	newApplication = "mineOS Universal application",
 	paste = "Paste",
 	copy = "Copy",
 	cut = "Cut",
