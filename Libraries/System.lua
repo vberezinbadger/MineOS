@@ -2423,42 +2423,27 @@ function system.updateDesktop()
 
 	desktopMenu = workspace:addChild(GUI.menu(1, 1, workspace.width, 0x0, 0x696969, 0x3366CC, 0xFFFFFF))
 	
-	local MineOSContextMenu = desktopMenu:addContextMenuItem("MineOS", 0x000000)
+	local MineOSContextMenu = desktopMenu:addContextMenuItem("mineOS", 0x000000)
 	MineOSContextMenu:addItem(localization.aboutSystem).onTouch = function()
 		local container = GUI.addBackgroundContainer(workspace, true, true, localization.aboutSystem)
 		container.layout:removeChildren()
 		
 		local lines = {
-			"MineOS",
+			"mineOS",
 			"Copyright © 2014-" .. os.date("%Y", system.getTime()),
+			"mineOS based by mineCORE.",
+			"mineCORE Version: 1.0 (Channel: Beta)",
 			" ",
-			"Developers:",
+			"Note:",
 			" ",
-			"Igor Timofeev, vk.com/id7799889",
-			"Gleb Trifonov, vk.com/id88323331",
-			"Yakov Verevkin, vk.com/id60991376",
-			"Alexey Smirnov, vk.com/id23897419",
-			"Timofey Shestakov, vk.com/id113499693",
+			"We thank the ECS team, third-party developers,",
+			"Igor Timofeev and his friends, colleagues,",
+			"for such a cool OS",
 			" ",
-			"UX-advisers:",
+			"Copyright © KolibraCorp 2021.",
+			"All rights reserved.",
 			" ",
-			"Nikita Yarichev, vk.com/id65873873",
-			"Vyacheslav Sazonov, vk.com/id21321257",
-			"Michail Prosin, vk.com/id75667079",
-			"Dmitrii Tiunov, vk.com/id151541414",
-			"Egor Paliev, vk.com/id83795932",
-			"Maxim Pakin, vk.com/id100687922",
-			"Andrey Kakoito, vk.com/id201043162",
-			"Maxim Omelaenko, vk.com/id54662296",
-			"Konstantin Mayakovskiy, vk.com/id10069748",
-			"Ruslan Isaev, vk.com/id181265169",
-			"Eugene8388608, vk.com/id287247631",
-			" ",
-			"Translators:",
-			" ",
-			"06Games, github.com/06Games",
-			"Xenia Mazneva, vk.com/id5564402",
-			"Yana Dmitrieva, vk.com/id155326634",
+			"Thanks to the KolibraCorp team for continuing to develop mineOS (while application development continues.",
 		}
 
 		local textBox = container.layout:addChild(GUI.textBox(1, 1, container.layout.width, #lines, nil, 0xB4B4B4, lines, 1, 0, 0))
