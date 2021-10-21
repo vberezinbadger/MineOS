@@ -2430,7 +2430,7 @@ function system.updateDesktop()
 		
 		local lines = {
 			"mineOS",
-			"Copyright © 2014-" .. os.date("%Y", system.getTime()),
+			"Version: 2.4 (Build 010), Date: 21.10.2021.",
 			"mineOS based by mineCORE.",
 			"mineCORE Version: 1.0 (Channel: Beta)",
 			" ",
