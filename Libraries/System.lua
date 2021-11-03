@@ -2430,9 +2430,9 @@ function system.updateDesktop()
 		
 		local lines = {
 			"mineOS",
-			"Version: 2.4 (Build 010), Date: 21.10.2021.",
+			"Version: 2.5 (Build 110), Date: 03.11.2021.",
 			"mineOS based by mineCORE.",
-			"mineCORE Version: 1.0 (Channel: Beta)",
+			"mineCORE Version: 1.0.090 (Channel: Beta)",
 			" ",
 			"Note:",
 			" ",
