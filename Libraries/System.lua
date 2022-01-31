@@ -2430,7 +2430,7 @@ function system.updateDesktop()
 		
 		local lines = {
 			"mineOS",
-			"Version: 2.5 (Build 110), Date: 03.11.2021.",
+			"Version: 2.6 (Build 213), Date: 31.01.2022.",
 			"mineOS based by mineCORE.",
 			"mineCORE Version: 1.0.090 (Channel: Beta)",
 			" ",
@@ -2440,7 +2440,7 @@ function system.updateDesktop()
 			"Igor Timofeev and his friends, colleagues,",
 			"for such a cool OS",
 			" ",
-			"Copyright © KolibraCorp 2021.",
+			"Copyright © Kolibra Studios 2022.",
 			"All rights reserved.",
 			" ",
 			"Thanks to the KolibraCorp team for continuing to develop mineOS (while application development continues.",
