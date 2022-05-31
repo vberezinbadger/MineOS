@@ -23,7 +23,7 @@ Here's a list of a few features:
 
 The easiest way is to use default **pastebin** script. Insert an OpenOS floppy disk to computer, insert an Internet Card, turn computer on and type the following to console to install MineOS:
 
-        wget -f https://raw.githubusercontent.com/vberezinbadger/MineOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
+      wget -f https://raw.githubusercontent.com/vberezinbadger/MineOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
 
 In mineOS has a MineBash application (available both in the new mineOS and in the old and original MineOS, but without support for hardware functionality). Install the MineBash application to easily launch the kernel, install terminal programs and applications for it.
 
