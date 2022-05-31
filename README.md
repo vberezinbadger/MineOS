@@ -1,6 +1,6 @@
 ## mineOS has released
 
-[![mineOS Banner](./assets/splashMineOS.png)](https://github.com/IgorTimofeev)
+[![mineOS Banner](./assets/splashMineOSBanner.png)](https://github.com/IgorTimofeev)
 
 ### Greeting
 
