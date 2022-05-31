@@ -1,5 +1,7 @@
 ## mineOS has released
 
+[![mineOS Banner](./assets/splashMineOS.png)](https://github.com/IgorTimofeev)
+
 ### Greeting
 
 Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. mineOS has finally reached the release stage: now it is a completely independent operating system with its own development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/mineos/wiki) of it's usage. 
