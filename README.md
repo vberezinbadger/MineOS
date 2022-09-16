@@ -2,6 +2,10 @@
 
 [![mineOS Banner](./assets/splashMineOSBanner.png)](https://github.com/IgorTimofeev)
 
+### Notice
+
+At this moment, the MineOS Developer Preview system is being developed. [Find out all the details](https://github.com/minesys/mineOS)
+
 ### Greeting
 
 Hello again, dear friend. Thank you for being with us and supporting our ideas throughout the long development cycle. mineOS has finally reached the release stage: now it is a completely independent operating system with its own development API and wonderful [illustrated wiki](https://github.com/IgorTimofeev/mineos/wiki) of it's usage. 
