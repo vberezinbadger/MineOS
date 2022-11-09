@@ -541,7 +541,7 @@ addStage(function()
 
 	-- Renaming if possible
 	if not selectedFilesystemProxy.getLabel() then
-		selectedFilesystemProxy.setLabel("MineOS HDD")
+		selectedFilesystemProxy.setLabel("mineOS System")
 	end
 
 	local function switchProxy(runnable)
