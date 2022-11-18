@@ -2,7 +2,7 @@
 
 ### Notice
 
-At this moment, the MineOS Developer Preview system is being developed. [Find out all the details](https://github.com/minesys/mineOS)
+At this moment, the mineOS Developer Preview system is being developed. [Find out all the details](https://github.com/minesys/mineOS)
 
 ### Greeting
 
