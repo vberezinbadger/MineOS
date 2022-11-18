@@ -1,7 +1,5 @@
 ## mineOS has released
 
-[![mineOS Banner](./assets/splashMineOSBanner.png)](https://github.com/IgorTimofeev)
-
 ### Notice
 
 At this moment, the MineOS Developer Preview system is being developed. [Find out all the details](https://github.com/minesys/mineOS)
